@@ -1,0 +1,8 @@
+clade,n_tips,NJ,bootstrap,ML,SH-like
+Modern humans,14,yes,100%,yes,0.92
+Neanderthals,7,yes,100%,yes,1.00
+Denisovans,3,yes,100%,yes,1.00
+Denisovans + Sima de los Huesos,4,yes,100%,yes,1.00
+Sima + Neanderthals (the alternative),8,no,-,no,-
+Modern humans + Neanderthals,21,yes,100%,yes,1.00
+All Homo (vs Pan outgroup),25,yes,100%,yes,1.00

@@ -1,0 +1,15 @@
+# Python dependencies for primate_mtdna_phylogeny.ipynb
+# Verified against the versions in the comments; the floors are the minimums the
+# notebook actually needs.
+#
+# External tools are NOT installable from PyPI — see README.md:
+#   mafft         (required)
+#   veryfasttree  (optional; FastTree or iqtree also work)
+
+biopython>=1.80        # tested with 1.87
+numpy>=1.24            # tested with 2.4.6
+pandas>=2.0            # tested with 3.0.5
+matplotlib>=3.7        # tested with 3.11.1 (boxplot keyword differences are handled)
+jupyter>=1.0           # tested with 1.1.1
+notebook>=7.0          # tested with 7.6.1
+ipykernel>=6.0         # tested with 7.3.0

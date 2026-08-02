@@ -1,0 +1,48 @@
+accession,label,group,age
+AM948965.1,Nea_Vindija33.16_Croatia,Neanderthal,~38 ka
+FM865407.1,Nea_Feldhofer1_Germany,Neanderthal,~40 ka
+FM865409.1,Nea_ElSidron1253_Spain,Neanderthal,~49 ka
+FM865411.1,Nea_Mezmaiskaya1_Caucasus,Neanderthal,~65 ka
+KC879692.1,Nea_Altai_Denisova5_Siberia,Neanderthal,~90-130 ka
+KX198085.1,Nea_GoyetQ374a_Belgium,Neanderthal,~40 ka
+KU131206.1,Nea_DC1227_Siberia,Neanderthal,Late Pleistocene
+FN673705.1,Den_Denisova3_phalanx,Denisovan,~50-76 ka
+FR695060.1,Den_Denisova4_molar,Denisovan,~50-100 ka
+KT780370.1,Den_Denisova8_molar,Denisovan,~110-136 ka
+KF683087.1,SimaDeLosHuesos_femurXIII,Sima,~430 ka
+NC_012920.1,Hsap_rCRS_reference,ModernHuman,extant
+AF347008.1,Hsap_San,ModernHuman,extant
+AF346998.1,Hsap_Mbuti,ModernHuman,extant
+AF346968.1,Hsap_Biaka,ModernHuman,extant
+AF347014.1,Hsap_Yoruba,ModernHuman,extant
+AF346995.1,Hsap_Mandenka,ModernHuman,extant
+AF346992.1,Hsap_Kikuyu,ModernHuman,extant
+AF346966.1,Hsap_AsianIndian,ModernHuman,extant
+AF346989.1,Hsap_Japanese,ModernHuman,extant
+AF346963.1,Hsap_AustralianAboriginal,ModernHuman,extant
+AF347004.1,Hsap_PapuaNewGuinea_Highland,ModernHuman,extant
+AF347006.1,Hsap_Saami,ModernHuman,extant
+AF346981.1,Hsap_French,ModernHuman,extant
+AF347012.1,Hsap_Warao_SouthAmerican,ModernHuman,extant
+NC_001643.1,Pan_troglodytes_chimpanzee,Ape,extant
+NC_001644.1,Pan_paniscus_bonobo,Ape,extant
+NC_001645.1,Gorilla_gorilla,Ape,extant
+NC_011120.1,Gorilla_gorilla_gorilla,Ape,extant
+NC_002083.1,Pongo_abelii_Sumatran,Ape,extant
+NC_001646.1,Pongo_pygmaeus_Bornean,Ape,extant
+NC_002082.1,Hylobates_lar_gibbon,Ape,extant
+NC_021957.1,Nomascus_leucogenys_gibbon,Ape,extant
+NC_014047.1,Symphalangus_syndactylus,Ape,extant
+NC_005943.1,Macaca_mulatta_rhesus,OldWorldMonkey,extant
+NC_001992.1,Papio_hamadryas_baboon,OldWorldMonkey,extant
+NC_020006.1,Papio_anubis_baboon,OldWorldMonkey,extant
+NC_008066.1,Chlorocebus_sabaeus,OldWorldMonkey,extant
+NC_006901.1,Colobus_guereza,OldWorldMonkey,extant
+NC_006900.1,Trachypithecus_obscurus,OldWorldMonkey,extant
+NC_025586.1,Callithrix_jacchus_marmoset,NewWorldMonkey,extant
+NC_002763.1,Cebus_albifrons_capuchin,NewWorldMonkey,extant
+NC_012775.1,Saimiri_sciureus_squirrel,NewWorldMonkey,extant
+NC_019800.1,Ateles_belzebuth_spider,NewWorldMonkey,extant
+NC_002811.1,Tarsius_bancanus_tarsier,Outgroup,extant
+NC_004025.1,Lemur_catta_ringtail,Outgroup,extant
+NC_002765.1,Nycticebus_coucang_loris,Outgroup,extant

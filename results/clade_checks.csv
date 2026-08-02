@@ -1,0 +1,18 @@
+clade,n_tips,ML,support,NJ+boot,NJ support
+Homo (modern + archaic) is monophyletic,25,yes,0.47,yes,100%
+Modern humans form a clade,14,yes,0.77,yes,100%
+Neanderthals form a clade,7,yes,1.00,yes,100%
+Denisovans + Sima de los Huesos group together,4,NO,-,yes,52%
+Pan (chimpanzee + bonobo),2,yes,1.00,yes,100%
+Homo + Pan,27,yes,1.00,yes,100%
+Gorilla,2,yes,1.00,yes,100%
+Pongo (both orangutans),2,yes,1.00,yes,100%
+Hominidae (great apes incl. Homo),31,yes,1.00,yes,100%
+Hylobatidae (gibbons + siamang),3,yes,1.00,yes,100%
+Hominoidea (apes + Homo),34,yes,1.00,yes,100%
+Cercopithecidae (Old World monkeys),6,yes,1.00,yes,100%
+Catarrhini (OWM + apes),40,yes,1.00,yes,100%
+Platyrrhini (New World monkeys),4,yes,1.00,yes,100%
+Anthropoidea (all monkeys + apes),44,yes,1.00,yes,100%
+Haplorhini (tarsier + anthropoids),45,yes,1.00,yes,92%
+Strepsirrhini (lemur + loris),2,yes,1.00,yes,92%
